@@ -31,3 +31,7 @@ The client side of the application should be written in Java or C# (preferably J
 
 
 The features listed above are the ones we are focusing on at the moment and will add further features to enhance the application.
+
+
+###Mock-Up GUI
+![alt gui-mockup](https://raw.github.com/qutcode/Industry-IM-Application/master/IndustryIM-MockUp.png)
