@@ -1,0 +1,22 @@
+[Moderation Tools]
+- The creator of a group conversation could be used as that session's host, releasing the requirement of an additional server.
+- The creator of a group conversation should be able to warn/vote-kick users for unproductive behaviour (good for study groups).
+
+[Equation Rendering]
+- Possible to use WolframAlpha to generate an image-based equation, show the image in-line with other text, then allow the client to copy the source of the image in plain-text.
+
+[Media Sharing]
+- Syntax highlighting for copied code snippets, perhaps automatic indenting to separate from chat.
+- Plain-text URL to image-preview parsing
+- Image sharing 'sessions' which show previews of all shared images since connection (Similar to MSN 2014).
+Video-streaming capabilities from peer-to-peer
+
+[Client]
+- Online status indicators with optional "BUSY, AWAY", etc.
+- Optional (default) "Typing..." indicator
+- Custom keyboard assignments for quick input (equations, etc.), with exportable profiles to share configs with friends.
+- Ability to block users
+
+[Connectivity]
+- Utilise a BitCoin-style P2P account system ?
+- Attempt to push data through other servers (i.e. existing messenger or file-sharing services) such as Facebook, Skype and Mega to reduce load - with adequate encryption techniques end-to-end for those which lack said encryption. This will allow for users to easily contact non-users and provide an opportunity to unobtrusively advertise. E.g. "This user has chosen to send you an encrypted message from Industry-IM. To view this message, download it here: http://industry.im/"

@@ -1,0 +1,11 @@
+C:\Users\Andrew\Dropbox\Projects\Messenger\Project\bin\Release\Messenger.exe.config
+C:\Users\Andrew\Dropbox\Projects\Messenger\Project\obj\Release\Messenger.frmLogin.resources
+C:\Users\Andrew\Dropbox\Projects\Messenger\Project\obj\Release\Messenger.frmMain.resources
+C:\Users\Andrew\Dropbox\Projects\Messenger\Project\obj\Release\Messenger.frmPreferences.resources
+C:\Users\Andrew\Dropbox\Projects\Messenger\Project\obj\Release\Messenger.Properties.Resources.resources
+C:\Users\Andrew\Dropbox\Projects\Messenger\Project\obj\Release\Messenger.csproj.GenerateResource.Cache
+C:\Users\Andrew\Dropbox\Projects\Messenger\Project\bin\Release\Messenger.exe
+C:\Users\Andrew\Dropbox\Projects\Messenger\Project\bin\Release\Messenger.pdb
+C:\Users\Andrew\Dropbox\Projects\Messenger\Project\obj\Release\Messenger.exe
+C:\Users\Andrew\Dropbox\Projects\Messenger\Project\obj\Release\Messenger.pdb
+C:\Users\Andrew\Dropbox\Projects\Messenger\Project\obj\Release\Messenger.csprojResolveAssemblyReference.cache
