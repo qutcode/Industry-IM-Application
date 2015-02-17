@@ -32,6 +32,14 @@ The client side of the application should be written in Java or C# (preferably J
 
 The features listed above are the ones we are focusing on at the moment and will add further features to enhance the application.
 
+###Platform Implementations
+Opinion [that means tell me if I am wrong please :)]: 
+
+Linux/MacOSX/Windows version first -> Java client will allow for easy porting 
+
+Android version second -> Java client again making it easier but not as easy as desktop
+
+iOS version third -> Will require conversion of Java code to Obj-C code either by someone writing it straight or a conversion tool such as Google's [J2ObjC](https://github.com/google/j2objc)
 
 ###Mock-Up GUI
 ![alt gui-mockup](https://raw.github.com/qutcode/Industry-IM-Application/master/IndustryIM-MockUp.png)
