@@ -9,5 +9,6 @@
 
 ### Why not?
 1. The interface to the C server might be interesting but it would of been the same for Java.
-2. Any other reasons?
+2. Potentially less developers to maintain the codebase. 
+3. Any other reasons?
 
